@@ -66,5 +66,4 @@ The goal is to transform social media raw data into actionable insights to optim
 - LinkedIn and Twitter follow with 1.5K daily posts  
 - TikTok and Facebook have lower posting frequencies around 1.3K  
 
----
 
